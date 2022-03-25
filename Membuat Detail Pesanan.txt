@@ -6,3 +6,4 @@ BERNADETA REGINA PARAMASANTI
 SETIANI RAHMA DEWI
 
 Ceritanya file mockup detail pesanan
+ [Done: File Registrasi resolve #5]
